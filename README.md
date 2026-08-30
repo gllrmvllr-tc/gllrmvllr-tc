@@ -11,6 +11,7 @@ en productos escalables, funcionales y centrados en las personas.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=3B9CFF)](https://linkedin.com/in/guillermo-villarp)
 [![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=3B9CFF)](mailto:Guillermo1858@gmail.com)
 [![CV](https://img.shields.io/badge/DESCARGAR_CV-111827?style=for-the-badge&logo=readdotcv&logoColor=3B9CFF)](https://www.guillermo-villar.tech/cv.pdf)
+[![Mi otro yo](https://img.shields.io/badge/EL_ORIGINAL-111827?style=for-the-badge&logo=github&logoColor=3B9CFF)](https://github.com/7ouzz-coder)
 
 <br>
 
